@@ -27,7 +27,7 @@ This project is a full rework of the **Class Tree**, **Arms**, **Fury**, and **P
 - [Arms_Spec_Tree.pdf](https://github.com/user-attachments/files/20266811/Arms_Spec_Tree.pdf)![Neo Ultimate Final Arms Tree](https://github.com/user-attachments/assets/7acad7ae-71b5-462c-b67a-d6896800b697) 
 - [Fury_Spec_Tree.pdf](https://github.com/user-attachments/files/20266825/Fury_Spec_Tree.pdf)![NeoUltimate Final Fury Tree](https://github.com/user-attachments/assets/1b025a6a-512f-45c5-899c-a5d4733c689b)
 - [Prot_Spec_Tree.pdf](https://github.com/user-attachments/files/20266832/Prot_Spec_Tree.pdf)![Neo Ultimate Final Protection Tree](https://github.com/user-attachments/assets/66a95b02-8f4b-4f4e-b974-ffcb9ca9da30)
-- [Warrior_Class_Tree.pdf][Warrior_Class_Tree.pdf](https://github.com/user-attachments/files/20271693/Warrior_Class_Tree.pdf)
+- [Warrior_Class_Tree.pdf](https://github.com/user-attachments/files/20271693/Warrior_Class_Tree.pdf)
     ![Neo Ultimate Final Class Tree](https://github.com/user-attachments/assets/9745ee75-f89b-491e-a83d-1039589f44bd)
 
 - [Modular _Talent _Path.pdf](https://github.com/user-attachments/files/20266839/Modular._Talent._Path.pdf))
