@@ -16,7 +16,7 @@ This project is a full rework of the **Class Tree**, **Arms**, **Fury**, and **P
 ## 📦 What’s Inside
 
 - **docs/Arms_Tree.pdf** – Full rework of the Arms spec (modular burst, calculated damage)
-- **docs/Fury_Tree.pdf** – Fury with rage layering, Frenzied Schizophrenia, cleave precision
+- **docs/Fury_Tree.pdf** – Fury with rage layering, Recklessness enchantment , cleave precision
 - **docs/Protection_Tree.pdf** – Advanced Prot tanking with 2H options and shield mastery
 - **docs/Class_Tree.pdf** – Core tree for all specs with stance mastery, enrage logic, and CC
 - **docs/PvP_Talents.pdf** – PvP talent additions, synergies, and tuning changes
