@@ -24,10 +24,10 @@ This project is a full rework of the **Class Tree**, **Arms**, **Fury**, and **P
 - **docs/Global_Interaction_Rules.pdf** Shared mechanics across all specs to avoid abuses
 - **README.md** – This file
 - **LICENSE** – Open for public feedback and discussion 
-- [Arms_Spec_Tree.pdf](https://github.com/user-attachments/files/20274705/Arms_Spec_Tree.pdf)![Neo Ultimate Final Arms Tree](https://github.com/user-attachments/assets/7acad7ae-71b5-462c-b67a-d6896800b697) 
-- [Fury_Spec_Tree.pdf](https://github.com/user-attachments/files/20266825/Fury_Spec_Tree.pdf)![Neo Ultimate Final Fury Tree](https://github.com/user-attachments/assets/d5a36364-47f7-4188-96bf-e52d3df0c2c8)
+- [Arms_Spec_Tree.pdf](https://github.com/user-attachments/files/20428312/Arms_Spec_Tree.pdf)![Neo Ultimate Final Arms Tree](https://github.com/user-attachments/assets/7acad7ae-71b5-462c-b67a-d6896800b697) 
+- [Fury_ Spec _Tree.pdf](https://github.com/user-attachments/files/20428311/Fury_.Spec._Tree.pdf)![Neo Ultimate Final Fury Tree](https://github.com/user-attachments/assets/09482d03-1d85-4972-82c9-18fe5a0d59e3)
 - [Prot_Spec_Tree.pdf](https://github.com/user-attachments/files/20273173/Prot_Spec_Tree.pdf)![Neo Ultimate Final Protection Tree](https://github.com/user-attachments/assets/66a95b02-8f4b-4f4e-b974-ffcb9ca9da30)
-- [Warrior_Class _Tree.pdf](https://github.com/user-attachments/files/20274725/Warrior_Class._Tree.pdf)![Neo Ultimate Final Class Tree](https://github.com/user-attachments/assets/f4c5e512-eb68-4fd6-ab84-ebf098fcfdd0)
+- [Warrior_ Class _Tree.pdf](https://github.com/user-attachments/files/20428310/Warrior_.Class._Tree.pdf)![Neo Ultimate Final Class Tree](https://github.com/user-attachments/assets/f4c5e512-eb68-4fd6-ab84-ebf098fcfdd0)
 
 
 - [Modular _Talent _Path.pdf](https://github.com/user-attachments/files/20266839/Modular._Talent._Path.pdf))
