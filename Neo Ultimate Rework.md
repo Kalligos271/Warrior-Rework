@@ -30,9 +30,15 @@ This project is a full rework of the **Class Tree**, **Arms**, **Fury**, and **P
 - [Warrior_ Class _Tree.pdf](https://github.com/user-attachments/files/20428310/Warrior_.Class._Tree.pdf)![Neo Ultimate Final Class Tree](https://github.com/user-attachments/assets/f4c5e512-eb68-4fd6-ab84-ebf098fcfdd0)
 
 
-- [Modular _Talent _Path.pdf](https://github.com/user-attachments/files/20266839/Modular._Talent._Path.pdf))
-- [PvP_Talents.pdf](https://github.com/user-attachments/files/20266833/PvP_Talents.pdf)
+- [Modular_Talent_Path.pdf](https://github.com/user-attachments/files/20430363/Modular_Talent_Path.pdf)
+
+- [PvP_Talents.pdf](https://github.com/user-attachments/files/20430487/PvP_Talents.pdf)
+
 - [Global_Interaction_Rules.pdf](https://github.com/user-attachments/files/20266809/Global_Interaction_Rules.pdf)
+- [FAQ_Warrior_Rework.pdf](https://github.com/user-attachments/files/20430541/FAQ_Warrior_Rework.pdf)
+- [What_kind_of_feedback_I_am_looking_for.pdf](https://github.com/user-attachments/files/20430545/What_kind_of_feedback_I_am_looking_for.pdf)
+
+
 
 
 - [ReadMe.pdf](https://github.com/user-attachments/files/20269804/ReadMe.pdf)
