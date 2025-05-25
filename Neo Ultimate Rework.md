@@ -26,8 +26,8 @@ This project is a full rework of the **Class Tree**, **Arms**, **Fury**, and **P
 - **LICENSE** – Open for public feedback and discussion 
 - [Arms_Spec_Tree.pdf](https://github.com/user-attachments/files/20428312/Arms_Spec_Tree.pdf)![Neo Ultimate Final Arms Tree](https://github.com/user-attachments/assets/7acad7ae-71b5-462c-b67a-d6896800b697) 
 - [Fury_ Spec _Tree.pdf](https://github.com/user-attachments/files/20428311/Fury_.Spec._Tree.pdf)![Neo Ultimate Final Fury Tree](https://github.com/user-attachments/assets/09482d03-1d85-4972-82c9-18fe5a0d59e3)
-- [Prot_Spec_Tree.pdf](https://github.com/user-attachments/files/20428636/Prot_Spec_Tree.pdf)![Neo Ultimate Final Protection Tree](https://github.com/user-attachments/assets/66a95b02-8f4b-4f4e-b974-ffcb9ca9da30)
-- [Warrior_ Class _Tree.pdf](https://github.com/user-attachments/files/20428310/Warrior_.Class._Tree.pdf)![Neo Ultimate Final Class Tree](https://github.com/user-attachments/assets/f4c5e512-eb68-4fd6-ab84-ebf098fcfdd0)
+- [Prot_Spec_Tree.pdf](https://github.com/user-attachments/files/20431427/Prot_Spec_Tree.pdf)![Neo Ultimate Final Protection Tree](https://github.com/user-attachments/assets/66a95b02-8f4b-4f4e-b974-ffcb9ca9da30)
+- [Warrior_Class_Tree.pdf](https://github.com/user-attachments/files/20431502/Warrior_Class_Tree.pdf)![Neo Ultimate Final Class Tree](https://github.com/user-attachments/assets/f4c5e512-eb68-4fd6-ab84-ebf098fcfdd0)
 
 
 - [Modular_Talent_Path.pdf](https://github.com/user-attachments/files/20430363/Modular_Talent_Path.pdf)
@@ -74,6 +74,8 @@ Inspired by the legacy of Warrior players across expansions from Classic to Drag
 
 
 > This is not an attempt to power creep the class. It’s a passion-driven proposal grounded in playability and fantasy.
+
+Ιf you’re interested in the philosophy behind Armor Penetration and Warrior durability in PvP, I wrote a personal design insight here https://pastebin.com/8YapXFZ8
 
 
 
