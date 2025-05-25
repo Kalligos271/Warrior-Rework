@@ -41,7 +41,8 @@ This project is a full rework of the **Class Tree**, **Arms**, **Fury**, and **P
 
 
 
-- [ReadMe.pdf](https://github.com/user-attachments/files/20269804/ReadMe.pdf)
+- [Read_Me.pdf](https://github.com/user-attachments/files/20431915/Read_Me.pdf)
+
 
 -License [License.pdf](https://github.com/user-attachments/files/20272868/License.pdf)
 
